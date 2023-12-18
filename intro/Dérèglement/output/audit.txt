@@ -1,0 +1,32 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Dec 18 20:33:32 2023
+Invocation: foremost 2021-fcsc-reglement_de_participation (1).docx 2021-fcsc-reglement_de_participation (1).docx 
+Output directory: /workspace/hackropole/intro/Dérèglement/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: 2021-fcsc-reglement_de_participation (1).docx
+Start: Mon Dec 18 20:33:33 2023
+Length: 91 KB (93740 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.zip 	      91 KB 	          0 	 
+Finish: Mon Dec 18 20:33:33 2023
+------------------------------------------------------------------
+File: 2021-fcsc-reglement_de_participation (1).docx
+Start: Mon Dec 18 20:33:33 2023
+Length: 91 KB (93740 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+1:	00000000_1.zip 	      91 KB 	          0 	 
+Finish: Mon Dec 18 20:33:33 2023
+
+2 FILES EXTRACTED
+	
+zip:= 2
+------------------------------------------------------------------
+
+Foremost finished at Mon Dec 18 20:33:33 2023
