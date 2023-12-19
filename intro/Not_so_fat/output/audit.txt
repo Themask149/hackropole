@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Dec 19 11:53:26 2023
+Invocation: foremost not-so-fat.dd 
+Output directory: /workspace/hackropole/intro/Not_so_fat/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: not-so-fat.dd
+Start: Tue Dec 19 11:53:26 2023
+Length: 16 MB (16777216 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000104.zip 	      241 B 	      53248 	 
+Finish: Tue Dec 19 11:53:27 2023
+
+1 FILES EXTRACTED
+	
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue Dec 19 11:53:27 2023
