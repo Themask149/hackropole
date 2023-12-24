@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  2tp:
+    image: anssi/fcsc2019-crypto-2tp:latest
+    ports:
+      - "4000:4000"
