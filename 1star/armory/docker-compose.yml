@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  armory:
+    image: anssi/fcsc2019-pwn-armory:latest
+    ports:
+      - "4000:4000"
