@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  sushi:
+    image: anssi/fcsc2020-misc-sushi:latest
+    ports:
+      - "2222:22"
